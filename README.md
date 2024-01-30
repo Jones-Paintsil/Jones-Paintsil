@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Jones-Paintsil
-- 👀 I’m interested in Data Science, Applied Economics, Development Economics, Labor Economics, Health Economics
-- 🌱 I’m currently student at Howard; PhD(Economics)  and MS(Applied Data Science and Analytics)
-- 💞️ I’m looking to collaborate on health economics issues, data analytics etc
-- 📫 Email: arkohjones@gmail.com
-- 😄 Pronouns: He/Him
+- 👋 Hi, I’m Jones Paintsil
+- 👀 I’m interested in Data Science, Applied Economics, Development Economics, Labor Economics, Health Economics.
+- 🌱 I’m currently student at Howard; PhD(Economics)  and MS(Applied Data Science and Analytics).
+- 💞️ I’m looking to collaborate on health economics issues, data analytics etc.
+- 📫 Email: arkohjones@gmail.com.
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Like data work!
 
 <!---
